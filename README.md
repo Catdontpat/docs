@@ -9,7 +9,7 @@ Minish Maker is a level editor for The Legend of Zelda: The Minish Cap.
 | Feature | Status |
 | :--- | :--- |
 | Room List | In development |
-| Map Viewper | In development |
+| Map Viewer | In development |
 | Tileset Viewer | Planned |
 | Map Editing | Planned |
 | Tileset Editing | Planned |
