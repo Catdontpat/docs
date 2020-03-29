@@ -29,13 +29,13 @@ Make sure you download the zip file named **MinishMaker x.x.x.zip**, and not the
 
 ### Installation\(ish\)
 
-Once you've downloaded the zip, unzip it in whatever folder you want. Minish Maker currently functions as a portable app and can be run from most folders.
+Once you've downloaded the zip, unzip it in whatever folder you want. Minish Maker currently functions as a portable app and can be run from most folders. Then double click **Minish Maker.exe** to run the program.
 
 Note: On Windows 10, you may see this popup when attempting to run the program:
 
 ![Pesky Windows, who does it think it is protecting you?!](../.gitbook/assets/smartscreen.png)
 
-This is normal, and appears because we can't afford to pay for a signing certificate. To run the program, click 'More info' which will reveal the 'Run anyway' button.
+This is normal, and appears because we can't afford to pay for a signing certificate. To run the program, click **More info** which will reveal the **Run anyway** button.
 
-
+Once Minish Maker opens, you're good to go! Jump over to the [Getting Started](getting-started.md) section of this guide.
 

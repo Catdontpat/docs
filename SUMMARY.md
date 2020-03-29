@@ -5,6 +5,8 @@
 ## Minish Maker
 
 * [Minish Maker](minish-maker/minish-maker.md)
+* [Getting Started](minish-maker/getting-started.md)
+* [Map Editor](minish-maker/map-editor.md)
 
 ## Save Editor
 
