@@ -23,7 +23,7 @@ Minish Maker is a level editing suite for _The Legend of Zelda: The Minish Cap._
 
 You can download Minish Maker from our [GitHub page](https://github.com/minishmaker/minishmaker/releases/latest). The latest release will be at the top of the page, and after the release notes you will see this panel below:
 
-![Note: the version number shown here may not be the same as yours](../.gitbook/assets/image.png)
+![Note: the version number shown here may not be the same as yours](../.gitbook/assets/mmdownloadassets.png)
 
 Make sure you download the zip file named **MinishMaker x.x.x.zip**, and not the zip files labelled 'Source code' \(Unless you're interested in helping to develop Minish Maker, in which case look [here](https://github.com/minishmaker/minishmaker/blob/master/CONTRIBUTING.md)!\).
 
@@ -33,7 +33,7 @@ Once you've downloaded the zip, unzip it in whatever folder you want. Minish Mak
 
 Note: On Windows 10, you may see this popup when attempting to run the program:
 
-![Pesky Windows, who does it think it is protecting you?!](../.gitbook/assets/image%20%281%29.png)
+![Pesky Windows, who does it think it is protecting you?!](../.gitbook/assets/smartscreen.png)
 
 This is normal, and appears because we can't afford to pay for a signing certificate. To run the program, click 'More info' which will reveal the 'Run anyway' button.
 
